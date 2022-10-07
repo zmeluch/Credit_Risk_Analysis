@@ -9,7 +9,7 @@ classification report. Then the process was repeated with two ensemble models, B
 and Easy Ensemble Classifier.
 
 ## Results
-- Random Over Sampler
+### Random Over Sampler
 
 ![RandomOverSampler](https://user-images.githubusercontent.com/103155045/194446933-11997065-11da-4c0c-930a-c9de6ee07f03.png)
   
@@ -18,7 +18,7 @@ and Easy Ensemble Classifier.
   - The recall for high risk is .61 and for low risk is .67.
 
 
-- SMOTE
+### SMOTE
 
 ![SmoteOversampling](https://user-images.githubusercontent.com/103155045/194446958-c9c96f5c-1d46-4a6c-9b12-ee665626ca32.png)
 
@@ -27,7 +27,7 @@ and Easy Ensemble Classifier.
   - The recall for high risk is .61 and for low risk is .65.
 
 
-- Cluster Centroids
+### Cluster Centroids
 
 ![ClusterCentroids](https://user-images.githubusercontent.com/103155045/194446982-118cd230-e66f-4032-bdcf-dd7dc1903ab4.png)
 
@@ -36,7 +36,7 @@ and Easy Ensemble Classifier.
   - The recall for high risk is .59 and for low risk is .43.
 
 
-- SMOTEENN
+### SMOTEENN
 
 ![SMOTEENN](https://user-images.githubusercontent.com/103155045/194446992-0d5f1ca0-ceeb-4235-a0de-e730d3c28e95.png)
 
@@ -45,7 +45,7 @@ and Easy Ensemble Classifier.
   - The recall for high risk is .76 and for low risk is .57.
 
 
-- Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/103155045/194447007-f62718da-2094-4ff4-abea-12d17e97b6a4.png)
 
@@ -53,7 +53,7 @@ and Easy Ensemble Classifier.
   - The precison for high risk is .04 and for low risk is 1.
   - The recall for high risk is .67 and for low risk is .91.
 
-- Easy Ensemble Classifier
+### Easy Ensemble Classifier
 
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/103155045/194447034-26153e97-2fc0-4af5-bd55-e7dc8a90a222.png)
 
