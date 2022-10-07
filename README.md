@@ -61,4 +61,8 @@ and Easy Ensemble Classifier.
   - The precison for high risk is .07 and for low risk is 1.
   - The recall for high risk is .91 and for low risk is .94.
 ## Summary
-
+Both oversampling models did not have very high accuracy and or recall scores. Also both had very low precision scores for high risk
+and 1 for low risk making probably overfit for the data. The undersampling model had similiar results with worse accuracy and rcall 
+scores. The SMOTEENN combination model again had similiar scores with an improved score for high risk recall. The Balanced Random Forest
+Classifier had higher scores than the previous and Easy Ensemble Classifier had high scores for all except high risk precision. Though
+its high risk precision score was higher than the rest of the models.
